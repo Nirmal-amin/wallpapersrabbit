@@ -125,17 +125,13 @@ a:hover{
 .inputclass {
     background: none;
     top: 0%;
+    left: 0;
+    right: 0;
     height: 50px;
     width: 100%;
     align-items: center;
     position: fixed;
-}
-.inputclass {
-    top: 0%;
-    height: 50px;
-    width: 100%;
-    align-items: center;
-    position:fixed;
+    margin-right: 500px;
 }
 input[type="text"]{
     display: block;

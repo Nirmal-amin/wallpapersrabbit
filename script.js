@@ -55,7 +55,6 @@
         let string = document.querySelector('input').value;
         let str = string.toLowerCase();
         let achivedClass = document.getElementsByClassName(str);
-        console.log(str);
         
 
         for(i=0;i<1;i++)

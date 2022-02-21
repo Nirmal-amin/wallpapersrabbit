@@ -30,7 +30,6 @@
 
     // timeline = (addByOne*100) / (100); 
     timeline = addByOne;
-    console.log(addByOne);
 
     let bananasCopyarr;
     let bananaItem;
@@ -84,4 +83,4 @@
             dropdown.classList.remove('active')
         })
     })
-    
+        
